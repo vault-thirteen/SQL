@@ -5,9 +5,9 @@ go 1.19
 require (
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/lib/pq v1.10.7
+	github.com/vault-thirteen/auxie v0.3.0
 	github.com/vault-thirteen/errorz v1.0.1
 	github.com/vault-thirteen/tester v1.0.1
-	github.com/vault-thirteen/unicode v0.1.1
 	go.uber.org/multierr v1.9.0
 )
 

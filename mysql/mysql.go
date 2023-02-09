@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/vault-thirteen/auxie/unicode"
 	"github.com/vault-thirteen/errorz"
-	"github.com/vault-thirteen/unicode"
 )
 
 const ErrfBadSymbol = "Bad Symbol: '%v'."

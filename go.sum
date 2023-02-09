@@ -13,12 +13,12 @@ github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZb
 github.com/rogpeppe/go-internal v1.9.0 h1:73kH8U+JUqXU8lRuOHeVHaa/SZPifC7BkcraZVejAe8=
 github.com/rogpeppe/go-internal v1.9.0/go.mod h1:WtVeX8xhTBvf0smdhujwtBcq4Qrzq/fJaraNFVN+nFs=
 github.com/stretchr/testify v1.7.0 h1:nwc3DEeHmmLAfoZucVR881uASk0Mfjw8xYJ99tb5CcY=
+github.com/vault-thirteen/auxie v0.3.0 h1:I+7VUi+cRX4rGrCyd6FAqPmlIdKxwPppk5uf1iIH1m8=
+github.com/vault-thirteen/auxie v0.3.0/go.mod h1:v95jm8C5KjcZx2S2ttWcn0Hu4SjVfdzsOxc74jn6MtY=
 github.com/vault-thirteen/errorz v1.0.1 h1:pDX8J9JSMpCfsa7bnxUbPA5dOz3hLdaii0dIQsAxiRM=
 github.com/vault-thirteen/errorz v1.0.1/go.mod h1:T9zYGCtmo142goz52YL2U+nmiwcweILstlGTWP6/upQ=
 github.com/vault-thirteen/tester v1.0.1 h1:SixYUduUtuMT+Nib0XxtG4DUEN8MBv3MWnB1cXIs6aA=
 github.com/vault-thirteen/tester v1.0.1/go.mod h1:6bOUchlAxCIf0cp4K5waipXPa7RLSCivW8Gn61HTLfw=
-github.com/vault-thirteen/unicode v0.1.1 h1:nSbu/EVMjZOl9Vb/0MdRxWJDJe2x1z3mjKwvhWSPiiM=
-github.com/vault-thirteen/unicode v0.1.1/go.mod h1:EtCnQT/nHxsUfPpM92XdJ9vb+j2qDrxX9irmEoV0Eqc=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
 go.uber.org/atomic v1.10.0/go.mod h1:LUxbIzbOniOlMKjJjyPfpl4v+PKK2cNJn91OQbhoJI0=
 go.uber.org/multierr v1.9.0 h1:7fIwc/ZtS0q++VgcfqFDxSBZVv/Xo49/SYnDFupUwlI=

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/vault-thirteen/unicode"
+	"github.com/vault-thirteen/auxie/unicode"
 	"go.uber.org/multierr"
 )
 
